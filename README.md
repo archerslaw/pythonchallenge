@@ -15,3 +15,10 @@ I was inspired while I was playing notpron. It just occured to me that the same 
 ####What is the Python programming language? 
 From Python website: "Python is an interpreted, interactive, object-oriented programming language. It is often compared to Tcl, Perl, Scheme or Java. Python combines remarkable power with very clear syntax. It has modules, classes, exceptions, very high level dynamic data types, and dynamic typing."
 
+####How to get access to the solutions?
+You can view the solution only after solving the puzzle. In order to prove that you had solved a puzzle, you would have to enter the URL of the next one, but instead of using pc in the URL, write pcc.
+
+For example, if you are now in http://www.pythonchallenge.com/pc/def/something.html, then change to http://www.pythonchallenge.com/pcc/def/something.html.
+
+If the level requires a password, use the following pattern: http://www.pythonchallenge.com/pcc/somedir/something.html:username:password Entering this special page will give you a ticket for viewing the solution here. Due to security reasons, the ticket is valid only for 24 hours, but you can always renew it, ofcourse.
+
