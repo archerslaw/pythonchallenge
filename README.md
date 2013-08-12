@@ -25,7 +25,6 @@ If the level requires a password, use the following pattern: http://www.pythonch
 ####The Python Solutions.
 http://wiki.pythonchallenge.com/index.php?title=Level0:Main_Page#Python_Solution
 http://wiki.pythonchallenge.com/index.php?title=Level1:Main_Page#Python_Solution
-|
-V
+......
 http://wiki.pythonchallenge.com/index.php?title=Level33:Main_Page#Python_Solution
 
