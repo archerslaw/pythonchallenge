@@ -22,7 +22,7 @@ For example, if you are now in http://www.pythonchallenge.com/pc/def/something.h
 
 If the level requires a password, use the following pattern: http://www.pythonchallenge.com/pcc/somedir/something.html:username:password Entering this special page will give you a ticket for viewing the solution here. Due to security reasons, the ticket is valid only for 24 hours, but you can always renew it, ofcourse.
 
-#### The Python Solutions
+#### The python solutions for the 33 challenge forums
 http://wiki.pythonchallenge.com/index.php?title=Level0:Main_Page#Python_Solution
 
 http://wiki.pythonchallenge.com/index.php?title=Level1:Main_Page#Python_Solution
